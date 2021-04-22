@@ -1,5 +1,6 @@
 {
     "scripts": {
+        "discord": "node discord.js",
         "start": " node index.js"
     }
 }
